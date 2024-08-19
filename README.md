@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-# Sebastian Jans - Frontend Web Developer & Designer
-
 ## About Me
-I am Sebastian Jans, a frontend web developer and designer from Germany, currently residing in Spain. I specialize in creating dynamic and responsive websites using SvelteKit, ReactJS, TailwindCSS, and ShadCN.
+I am Sebastian Jans, a frontend developer and designer from Germany, currently residing in Valencia, Spain. I specialize in creating dynamic and responsive websites using SvelteKit, ReactJS, TailwindCSS, and ShadCN.
 
 ## Services
 - **Web Development**: Building efficient and scalable web applications.
@@ -11,8 +9,8 @@ I am Sebastian Jans, a frontend web developer and designer from Germany, current
 - **Branding**: Creating cohesive brand identities.
 
 ## Skills
-- **Frontend Development**: SvelteKit, ReactJS, TailwindCSS, ShadCN
-- **Design**: UI/UX design, graphic design, branding
+- **Frontend Development**: Typescript, SvelteKit, ReactJS, TailwindCSS, ShadCN
+- **Design**: UI/UX design, graphic design, branding, logo design
 
 ## Contact
 For inquiries or collaborations, reach out via [my website](https://webdev.sebastianjans.de).
